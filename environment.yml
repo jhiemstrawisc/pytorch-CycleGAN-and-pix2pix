@@ -1,6 +1,7 @@
 name: pytorch-CycleGAN-and-pix2pix
 channels:
 - pytorch
+- conda-forge
 - defaults
 dependencies:
 - python
