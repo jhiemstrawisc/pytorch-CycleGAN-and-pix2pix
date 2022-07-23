@@ -7,8 +7,15 @@ dependencies:
 - cudatoolkit
 - pytorch
 - scipy
+- h5py
+- sympy
+- matplotlib
+- scikit-learn
+- jsonpatch
+- packaging
 - pip
 - pip:
+  - fastmri
   - dominate==2.4.0
   - torchvision
   - Pillow==6.1.0
