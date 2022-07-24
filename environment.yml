@@ -1,5 +1,6 @@
 name: MRI
 channels:
+- pytorch
 - conda-forge
 - defaults
 dependencies:
@@ -14,11 +15,11 @@ dependencies:
 - packaging
 - wandb
 - cudatoolkit=11.1
+- dominate
+- pillow
+- numpy
+- visdom
 - pip
 - pip:
   - fastmri
-  - dominate
   - torchvision
-  - Pillow
-  - numpy
-  - visdom
