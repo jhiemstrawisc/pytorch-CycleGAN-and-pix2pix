@@ -1,6 +1,6 @@
 name: MRI
 channels:
-  - pytorch-nightly
+  - pytorch
   - conda-forge
 dependencies:
   - anyio=3.6.1
@@ -158,7 +158,7 @@ dependencies:
   - python-dateutil=2.8.2
   - python-fastjsonschema=2.16.1
   - python_abi=3.10
-  - pytorch=1.13.0
+  - pytorch
   - pytz=2022.1
   - pyzmq=23.2.0
   - readline=8.1.2
@@ -179,7 +179,7 @@ dependencies:
   - threadpoolctl=3.1.0
   - tk=8.6.12
   - torchfile=0.1.0
-  - torchvision=0.14.0
+  - torchvision
   - tornado=6.2
   - traitlets=5.3.0
   - typing_extensions=4.3.0
