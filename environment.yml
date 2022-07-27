@@ -1,7 +1,8 @@
 name: MRI
 channels:
-  - pytorch-nightly
+  - pytorch
   - conda-forge
+  - defaults
 dependencies:
   - anyio=3.6.1
   - aom=3.4.0
