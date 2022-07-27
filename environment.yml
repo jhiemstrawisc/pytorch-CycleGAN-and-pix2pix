@@ -2,7 +2,6 @@ name: MRI
 channels:
   - pytorch-nightly
   - conda-forge
-  - defaults
 dependencies:
   - anyio=3.6.1
   - aom=3.4.0
@@ -155,7 +154,7 @@ dependencies:
   - pyparsing=3.0.9
   - pyrsistent=0.18.1
   - pysocks=1.7.1
-  - python=3.6
+  - python=3.10.5
   - python-dateutil=2.8.2
   - python-fastjsonschema=2.16.1
   - python_abi=3.10
