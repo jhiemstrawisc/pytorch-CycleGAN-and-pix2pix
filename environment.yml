@@ -1,6 +1,6 @@
 name: MRI
 channels:
-  - pytorch
+  - pytorch-nightly
   - conda-forge
   - defaults
 dependencies:
