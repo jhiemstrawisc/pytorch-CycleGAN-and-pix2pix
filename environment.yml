@@ -155,7 +155,7 @@ dependencies:
   - pyparsing=3.0.9
   - pyrsistent=0.18.1
   - pysocks=1.7.1
-  - python=3.10.5
+  - python=3.6
   - python-dateutil=2.8.2
   - python-fastjsonschema=2.16.1
   - python_abi=3.10
